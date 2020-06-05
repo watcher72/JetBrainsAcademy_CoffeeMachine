@@ -1,1 +1,1 @@
-The studing project from JetBrains Academy
+The training project from JetBrains Academy
